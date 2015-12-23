@@ -123,3 +123,7 @@ margin: 0 auto;
 .caffe-wrapper a {
   margin: 0;
 }
+
+.about-caffe p {
+  text-align: left;
+}
